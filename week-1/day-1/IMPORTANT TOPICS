@@ -1,0 +1,18 @@
+**1. What problem does Salesforce solve?
+         Salesforce solves the problem of "Disconnected Data" by centralizing customer information from sales, marketing, and support into a single shared view, eliminating manual tracking errors and departmental silos.
+
+
+**2. What is CRM?**
+         CRM (Customer Relationship Management) is a technology and strategy used to manage all of a company’s interactions with current and potential customers to improve business relationships and drive growth.
+
+
+**3. What is an Object in Salesforce? Give one example.
+         An "Object" is a digital database table that stores specific types of information; for example, the "Account" object stores data about companies you do business with.
+
+
+**4. Difference between Salesforce Admin and Developer.
+         A "Salesforce Admin" manages the platform using "point-and-click" tools to configure settings and users, whereas a "Salesforce Developer" writes custom code (like Apex or Lightning Web Components) to build complex features that go beyond standard functionality.
+
+
+**5. Suggest one real-world application that can be built using Salesforce.
+         A "Patient Management System" for a hospital could be built to track patient medical histories (Contacts), scheduled appointments (Events), and billing records (Custom Objects) all in one secure portal.

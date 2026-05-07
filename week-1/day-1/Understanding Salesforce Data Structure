@@ -1,0 +1,12 @@
+Understanding Salesforce Data Structure
+
+     Salesforce uses a Relational Database structure. This means data isn't just sitting in isolated lists; everything is connected through "Relationships."
+
+     1. Master-Detail & Lookup Relationships:
+             These are the technical links that connect one object to another. For example, a "Contact" record is       linked to an "Account" record so you know exactly which company a person works for.
+
+     2. The "Single Source of Truth":
+             Because of this structure, you only have to update a piece of information in one place (like a phone       number), and it updates everywhere that record is referenced across the system.
+
+     3. Schema:
+             This refers to the overall "map" of how all these objects and fields fit together.

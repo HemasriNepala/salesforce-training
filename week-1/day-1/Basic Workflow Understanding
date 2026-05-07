@@ -1,0 +1,17 @@
+Basic Workflow Understanding
+
+        A workflow in Salesforce is the "path" a piece of data takes from the moment it enters the system until the deal is closed.Lead Lifecycle:
+1.  New:
+    A lead enters (manual entry or web-to-lead).
+2.  Working/Contacted:
+    A salesperson reaches out.
+3.  Qualified:
+    The lead is a good fit for the business.
+'a'.The "Path" Component:
+    On most records, you’ll see a visual progress bar at the top (e.g., Prospecting → Qualification → Proposal → Closed). This helps users know exactly what the next step is.
+'b'.Automation (Flows):
+    In 2026, Salesforce primarily uses Salesforce Flow for basic automation. For example:
+      .If a new Lead is created, the system can automatically send a "Thank You" email.
+      .If a deal reaches the "Negotiation" stage, it can automatically alert a manager to review the contract.
+'c'.Task Management:
+    Workflows often include "Tasks" or "Events" that appear in your "To-Do" list, ensuring no customer is              forgotten.

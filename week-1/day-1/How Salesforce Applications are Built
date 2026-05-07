@@ -1,0 +1,14 @@
+How Salesforce Applications are Built
+
+        The video explains that a Salesforce "App" isn't a separate piece of software you download; it is a collection of items curated for a specific job function.
+
+1. The Container Concept:
+        An App is simply a container for a set of Objects, Tabs, and Dashboards.
+        i. Example: The Sales App includes Leads and Opportunities.
+       ii. Example: The Service App might hide Leads but include "Cases" and "Knowledge Articles."
+
+ii. No-Code/Low-Code Development:
+        Salesforce apps are built primarily using "Declarative" tools (point-and-click). You don't need to write lines of code to create a new app; you use a "Drag-and-Drop" interface to decide which objects and tools your team needs to see.
+
+iii. Metadata-Driven:
+        Everything you build (the fields, the page layouts, the tabs) is stored as Metadata. This is why Salesforce can update its platform three times a year without breaking the custom apps companies have built.

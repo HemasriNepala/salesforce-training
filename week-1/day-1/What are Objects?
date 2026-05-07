@@ -1,0 +1,10 @@
+What are Objects?
+
+     In Salesforce, Objects are essentially database tables that allow you to store specific types of data. If you think of Salesforce as a giant digital filing cabinet, the Objects are the drawers.
+
+   1. Standard Objects:
+          These come "out of the box" with Salesforce (e.g., Leads, Accounts, Contacts, Opportunities).
+
+  2. Custom Objects: These are unique tables created by a company to store data specific to their industry (e.g., a real estate firm might create a custom object called "Properties" or "Open Houses").
+
+  3. The Analogy: If you were using an Excel spreadsheet, an Object would be the entire Tab/Sheet at the bottom of the workbook.

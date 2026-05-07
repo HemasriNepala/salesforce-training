@@ -1,0 +1,12 @@
+What are Records?
+
+    If an Object is the drawer, a Record is a specific file folder inside that drawer.
+
+    1. Definition:
+           A record is an individual instance of an object. For example, if "Accounts" is the object, "Apple Inc."     or "Google" would be the specific records.
+
+    2. Data Fields:
+          Each record is made up of Fields (the specific pieces of information like Phone Number, Email, or Close      Date).
+
+   3. The Analogy:
+          In an Excel spreadsheet, a Record is a single Row of data.

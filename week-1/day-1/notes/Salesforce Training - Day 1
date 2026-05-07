@@ -1,0 +1,34 @@
+Salesforce Training - Day 1 
+
+ Overview
+Today I started my deep dive into the Salesforce ecosystem. I focused on understanding the core "why" behind CRM usage and how the platform's architecture is structured.
+
+Key Learnings
+
+ 1. The CRM Concept
+I learned that CRM (Customer Relationship Management) isn't just a database; it’s a strategy. It solves the "Data Silo" problem where different departments (Sales, Marketing, Service) don't talk to each other. Salesforce puts everything in one place so the customer doesn't have to repeat themselves.
+
+ 2. Objects vs. Records (The Excel Mental Model)
+To understand the structure, I’m thinking of it like this:
+*Object: The Excel Tab (e.g., "Leads" or "Accounts").
+*Record: A single row in that tab (e.g., a specific person or company).
+*Field: The column header (e.g., "Phone Number").
+
+ 3. Salesforce Interface & Apps
+I explored the Lightning Experience. One thing that clicked for me is that a Salesforce "App" is just a collection of tabs bundled together for a specific job. If I'm in Sales, I see Leads; if I'm in Service, I see Cases.
+
+ Concepts Breakdown
+
+| Concept | My Understanding |
+
+| Leads | People who might buy from us (potential). |
+| Accounts | The companies those people work for. |
+| Contacts | The specific people we have a relationship with. |
+| Admin vs Dev | Admins "configure" (click-not-code). Developers "customize" (write Apex/code). |
+
+---
+
+ Doubts & Questions
+*Lead Conversion: When exactly is the "right" time to convert a Lead into an Account? Is there a standard criteria?
+*Custom Objects: Can a Custom Object have the same name as a Standard Object, or will that break the system?
+*Flows: Since the video mentioned "No-Code" automation, how much can we actually do before we need a Developer?

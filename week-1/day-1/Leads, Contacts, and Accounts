@@ -5,15 +5,14 @@ Leads, Contacts, and Accounts
 
 Object                            What it represents                               The Goal
 Lead                              "A ""maybe."" Someone who showed                 Convert them into a 
-                                 interest but isn't a customer yet                 Contact/Account once qualified.                                  (e.g., a person who filled out a 
+                                 interest but isn't a customer yet                 Contact/Account once                                          (e.g., a person who filled out a                  qualified. 
                                  website form)"
 
 Account                          "The Company or organization. This                Track the overall business 
                                  is the ""parent"" record that holds               relationship and history.
                                  everything together."
 
-Contact                          The Individual People who work at                 "Track personal interactions, 
-                                 that company. One Account can have                  emails, and meetings."
+Contact                          The Individual People who work at                 "Track personal interactions                                  that company. One Account can have                  emails, and meetings."
                                  many Contacts.
 
 

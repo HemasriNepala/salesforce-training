@@ -1,0 +1,20 @@
+Leads, Contacts, and Accounts
+
+     Understanding the difference between these three "Objects" is the most important part of using Salesforce correctly. Think of it as a funnel:
+
+
+Object                            What it represents                               The Goal
+Lead                              "A ""maybe."" Someone who showed                 Convert them into a 
+                                 interest but isn't a customer yet                 Contact/Account once qualified.                                  (e.g., a person who filled out a 
+                                 website form)"
+
+Account                          "The Company or organization. This                Track the overall business 
+                                 is the ""parent"" record that holds               relationship and history.
+                                 everything together."
+
+Contact                          The Individual People who work at                 "Track personal interactions, 
+                                 that company. One Account can have                  emails, and meetings."
+                                 many Contacts.
+
+
+       The Conversion Process: In the video, you see a Lead being "Converted." When this happens, Salesforce automatically creates an Account (the company) and a Contact (the person) and optionally an Opportunity (the potential deal).

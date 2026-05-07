@@ -1,0 +1,15 @@
+Salesforce Interface Basics:
+
+         The Salesforce interface in 2026 is built on the Lightning Experience, designed to be intuitive and                highly customizable.
+
+         Navigation Bar: 
+              Located at the top of the screen, this contains "Tabs" for different objects like Leads, Accounts,                 and Contacts. You can customize this bar to keep your most-used tools front and center.
+         The Dashboard: 
+              Your "Home" screen usually features a dashboard with real-time charts showing your sales pipeline,                 daily tasks, and recent records.
+         App Launcher: 
+              The "waffle" icon (nine dots) in the top-left corner. This allows you to switch between different                  "Apps" (e.g., shifting from the Sales App to the Service App).
+         Global Search: 
+               At the very top, this bar lets you find anything in the system—from a specific person's name to                 a specific document or task—across all objects.
+         Record Page: 
+               When you click on a specific name or company, the page is divided into Details (data fields),                   Activity (emails, calls, and meetings), and Related Lists (everything else connected to that                    record).
+       
